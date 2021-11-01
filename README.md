@@ -9,8 +9,10 @@
 <img src="./images/img_main_front.png">
 
 ## Ensemble Sheep Music, 2021
-- Second Waltz
-- When You Wish Upon a Star 
+- [Second Waltz ][Msheet-01]
+- [When You Wish Upon a Star ][Msheet-02]
 
 <hr>
 
+[Msheet-01]: ./sheet_music/second_waltz                            "Go Msheet-01"
+[Msheet-02]: ./sheet_music/when_you_wish_upon_a_star        "Go Msheet-02"
