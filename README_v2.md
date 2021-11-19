@@ -8,7 +8,8 @@
 <table border=0>
   <tr>
     <td width='50%'>
-      <img src="./images/img_main_front.png"></br></br>
+      <img src="./images/img_main_front.png">
+      </br></br></br></br>
       <img src="./images/mem_practice_01.jpg">
     </td>
     <td width='50%'>
