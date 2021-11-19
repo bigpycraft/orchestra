@@ -18,7 +18,7 @@
   </tr>
 </table>
 
-## Ensemble Sheep Music, 2021
+## Ensemble Sheet Music, 2021
 - 10월 : [Second Waltz ][Msheet-10-1]
 - 10월 : [When You Wish Upon a Star ][Msheet-10-2]
 - 11월 : [Christmas Medley ][Msheet-11-1]

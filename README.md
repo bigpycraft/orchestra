@@ -5,13 +5,23 @@
 <br>
 
 ## 라라필하모닉 오케스트라
+<table border=0>
+  <tr>
+    <td width='50%'>
+      <img src="./images/img_main_front.png">
+      </br></br></br></br>
+      <img src="./images/mem_practice_01.jpg">
+    </td>
+    <td width='50%'>
+      <img src="./images/mem_wanted.jpg">
+    </td>
+  </tr>
+</table>
 
-<img src="./images/img_main_front.png">
-
-## Ensemble Sheep Music, 2021
-- [Second Waltz ][Msheet-10-1]
-- [When You Wish Upon a Star ][Msheet-10-2]
-- [christmas_medley ][Msheet-11-1]
+## Ensemble Sheet Music, 2021
+- 10월 : [Second Waltz ][Msheet-10-1]
+- 10월 : [When You Wish Upon a Star ][Msheet-10-2]
+- 11월 : [Christmas Medley ][Msheet-11-1]
 
 <hr>
 
