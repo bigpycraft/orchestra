@@ -7,11 +7,13 @@
 ## 라라필하모닉 오케스트라
 <table border=0>
   <tr>
-    <td>
+    <td width=='50%>
       <img src="./images/img_main_front.png">
       <img src="./images/mem_practice.jpg">
     </td>
-    <td><img src="./images/mem_wanted.jpg"></td>
+    <td width=='50%>
+      <img src="./images/mem_wanted.jpg">
+    </td>
   </tr>
 </table>
 
