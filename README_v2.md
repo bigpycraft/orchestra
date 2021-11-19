@@ -9,7 +9,7 @@
   <tr>
     <td width='50%'>
       <img src="./images/img_main_front.png">
-      <img src="./images/mem_practice.jpg">
+      <img src="./images/mem_practice_01.jpg">
     </td>
     <td width='50%'>
       <img src="./images/mem_wanted.jpg">
