@@ -1,14 +1,9 @@
 
-# LALA Philharmonic Orchestra
-<div>
-  <div>
-  <img src="./images/img_main_front.png" width='90px'>
-  </div>
-  <div align='right'>
-  <font size=2 color='#EEEE00'>LALA Philharmonic 1st Viloinist</font>  |  <font color='blue'><a href='https://www.facebook.com/jskim.kr'>F.B : JS Luke, Kim </a></font>
-  </div>
+# LALA Philharmonic Orchestra    <div align='right'><img src="./images/img_main_front.png" width='90px'></div>
+
+<div align='right'>
+<font size=2 color='#EEEE00'>LALA Philharmonic 1st Viloinist</font>  |  <font color='blue'><a href='https://www.facebook.com/jskim.kr'>F.B : JS Luke, Kim </a></font>
 </div>
-<br>
 
 ## '21 라라 필하모닉 오케스트라 크리스마스 연주
 <table border=0>
