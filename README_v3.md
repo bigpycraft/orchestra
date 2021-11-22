@@ -7,7 +7,7 @@
 </div>
 <br>
 
-## 라라필하모닉 오케스트라          
+## 라라 필하모닉 오케스트라 크리스마스 연주
 <table border=0>
   <tr>
     <td width='30%'>
@@ -26,10 +26,9 @@
 <table border=0>
   <tr>
     <td width='50%'>
-      <img src="./images/img_main_front.png">
-    </td>
-    <td width='50%'>
-      <img src="./images/mem_practice_01.jpg">
+      <img src="./images/mem_wanted.jpg"  height='250px'>
+      <img src="./images/mem_practice_01.jpg"  height='250px'>
+      <img src="./images/mem_practice_02.jpg"  height='250px'>
     </td>
   </tr>
 </table>
