@@ -1,10 +1,13 @@
 
 # LALA Philharmonic Orchestra, 2021
 
-<div align='right'><font size=2 color='gray'>LALA Philharmonic  @ <font color='blue'><a href='https://www.facebook.com/jskim.kr'>FB / Viloin </a></font>, [김진수](bigpycraft@gmail.com)</font></div>
+<div align='right'>
+<img src="./images/img_main_front.png" width='120px'>
+<font size=2 color='gray'>LALA Philharmonic  @ <font color='blue'><a href='https://www.facebook.com/jskim.kr'>FB / Viloin </a></font>, [김진수](bigpycraft@gmail.com)</font>
+</div>
 <br>
 
-## 라라필하모닉 오케스트라          <img src="./images/img_main_front.png" width='100px'>
+## 라라필하모닉 오케스트라          
 <table border=0>
   <tr>
     <td width='30%'>
