@@ -23,10 +23,10 @@
 
 <table border=0 width='100%'>
   <tr>
-    <td width='70%'>
+    <td width='65%'>
       <img src="./images/mem_practice_01.jpg"  height='250px'>
     </td>
-    <td td width='30%' align='right'>
+    <td td width='35%' align='right'>
       <img src="./images/mem_wanted.jpg"  height='250px'>
     </td>
   </tr>
