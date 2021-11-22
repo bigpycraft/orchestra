@@ -24,9 +24,11 @@
 
 <table border=0>
   <tr>
-    <td width='100%'>
+    <td>
       <img src="./images/mem_practice_01.jpg"  height='250px'>
       <img src="./images/mem_practice_02.jpg"  height='250px'>
+    </td>
+    <td align='right'>
       <img src="./images/mem_wanted.jpg"  height='250px'>
     </td>
   </tr>
