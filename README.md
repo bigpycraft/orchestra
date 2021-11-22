@@ -2,7 +2,7 @@
 # LALA Philharmonic Orchestra
 
 <div align='right'>
-<font size=2 color='yellow'>LALA Philharmonic 1st Viloinist, <font color='blue'><a href='https://www.facebook.com/jskim.kr'>F.B : JS Luke, Kim </a></font></font>
+<font size=2 color='#EEEE00'>LALA Philharmonic 1st Viloinist  |  <font color='blue'><a href='https://www.facebook.com/jskim.kr'>F.B : JS Luke, Kim </a></font></font>
 <img src="./images/img_main_front.png" width='90px'>
 </div>
 <br>
