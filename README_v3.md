@@ -2,8 +2,8 @@
 # LALA Philharmonic Orchestra, 2021
 
 <div align='right'>
-<img src="./images/img_main_front.png" width='120px'>
 <font size=2 color='gray'>LALA Philharmonic  @ <font color='blue'><a href='https://www.facebook.com/jskim.kr'>FB / Viloin </a></font>, [김진수](bigpycraft@gmail.com)</font>
+<img src="./images/img_main_front.png" width='90px'>
 </div>
 <br>
 
