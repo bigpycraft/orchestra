@@ -5,19 +5,19 @@
 <br>
 
 ## 라라필하모닉 오케스트라
+<img src="./images/img_main_front.png" width='30px'>
 <table border=0>
   <tr>
-    <td width='5%'></td>
     <td width='30%'>
-      <img src="./images/poster/포스터_20211218_1.jpg">
+      <img src="./images/poster/포스터_20211218_1.jpg" width='300px'>
     </td>
     <td width='30%'>
-      <img src="./images/poster/포스터_20211218_2.jpg">
+      <img src="./images/poster/포스터_20211218_2.jpg" width='300px'>
     </td>
     <td width='30%'>
-      <img src="./images/mem_wanted.jpg">
+      <img src="./images/mem_wanted.jpg"  width='200px'></br>
+      <img src="./images/mem_practice_01.jpg"  width='200px'>
     </td>
-    <td width='5%'></td>
   </tr>
 </table>
 
