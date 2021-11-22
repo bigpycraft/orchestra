@@ -13,7 +13,7 @@
       <img src="./images/poster/포스터_20211218_1.jpg" width='300px'>
     </td>
     <td width='30%'>
-      <img src="./images/img_main_front.png" width='300px'>
+      <img src="./images/img_main_front.png" width='250px'>
     </td>
     <td width='35%'>
       <img src="./images/poster/포스터_20211218_2.jpg" width='300px'>
@@ -24,11 +24,11 @@
 <table border=0 width='960px'>
   <tr>
     <td>
-      <img src="./images/mem_practice_01.jpg"  height='210px'>
-      <img src="./images/mem_practice_02.jpg"  height='210px'>
+      <img src="./images/mem_practice_01.jpg"  height='200px'>
+      <img src="./images/mem_practice_02.jpg"  height='200px'>
     </td>
     <td  align='right'>
-      <img src="./images/mem_wanted.jpg"  height='210px'>
+      <img src="./images/mem_wanted.jpg"  height='200px'>
     </td>
   </tr>
 </table>
