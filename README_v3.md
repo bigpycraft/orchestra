@@ -2,34 +2,33 @@
 # LALA Philharmonic Orchestra
 
 <div align='right'>
-<font size=2 color='yellow'>LALA Philharmonic 1st Viloinist, <font color='blue'><a href='https://www.facebook.com/jskim.kr'>F.B : JS Luke, Kim </a></font></font>
-<img src="./images/img_main_front.png" width='90px'>
+<font size=2 color='#EEEE00'>LALA Philharmonic 1st Viloinist</font>  |  <font color='blue'><a href='https://www.facebook.com/jskim.kr'>F.B : JS Luke, Kim </a></font>
+<img src="./images/img_main_front.png" width='100px'>
 </div>
-<br>
 
 ## '21 라라 필하모닉 오케스트라 크리스마스 연주
-<table border=0>
+<table border=0 width='960px'>
   <tr>
-    <td width='30%'>
+    <td width='35%'>
       <img src="./images/poster/포스터_20211218_1.jpg" width='300px'>
     </td>
     <td width='30%'>
       <img src="./images/img_main_front.png" width='300px'>
     </td>
-    <td width='30%'>
+    <td width='35%'>
       <img src="./images/poster/포스터_20211218_2.jpg" width='300px'>
     </td>
   </tr>
 </table>
 
-<table border=0>
+<table border=0 width='960px'>
   <tr>
     <td>
-      <img src="./images/mem_practice_01.jpg"  height='250px'>
-      <img src="./images/mem_practice_02.jpg"  height='250px'>
+      <img src="./images/mem_practice_01.jpg"  height='220px'>
+      <img src="./images/mem_practice_02.jpg"  height='220px'>
     </td>
-    <td align='right'>
-      <img src="./images/mem_wanted.jpg"  height='250px'>
+    <td  align='right'>
+      <img src="./images/mem_wanted.jpg"  height='220px'>
     </td>
   </tr>
 </table>
