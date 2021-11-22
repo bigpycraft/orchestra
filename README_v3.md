@@ -4,8 +4,7 @@
 <div align='right'><font size=2 color='gray'>LALA Philharmonic  @ <font color='blue'><a href='https://www.facebook.com/jskim.kr'>FB / Viloin </a></font>, [김진수](bigpycraft@gmail.com)</font></div>
 <br>
 
-## 라라필하모닉 오케스트라
-<img src="./images/img_main_front.png" width='30px'>
+## 라라필하모닉 오케스트라          <img src="./images/img_main_front.png" width='100px'>
 <table border=0>
   <tr>
     <td width='30%'>
@@ -15,8 +14,8 @@
       <img src="./images/poster/포스터_20211218_2.jpg" width='300px'>
     </td>
     <td width='30%'>
-      <img src="./images/mem_wanted.jpg"  width='200px'></br>
-      <img src="./images/mem_practice_01.jpg"  width='200px'>
+      <img src="./images/mem_wanted.jpg"  width='250px'></br>
+      <img src="./images/mem_practice_01.jpg"  width='250px'>
     </td>
   </tr>
 </table>
