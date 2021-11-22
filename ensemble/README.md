@@ -5,7 +5,7 @@
 <br>
 
 ## 라라필 오케스트라 합주연습 - 2021년 11월
-<video src="./video/pinocchio_20211120.mp4" width="1280px" height="720px"></video>
+<video src="./video/pinocchio_20211120.mp4" width="1280px" height="720px" controls autoplay loop></video>
 <hr>
 <img src="./photo/합주연습_2021년11월_01.jpg">
 <img src="./photo/합주연습_2021년11월_02.jpg">
