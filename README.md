@@ -23,7 +23,7 @@
 
 <table border=0>
   <tr>
-    <td width='70%'
+    <td width='70%'>
       <img src="./images/mem_practice_01.jpg"  height='250px'>
     </td>
     <td td width='30%' align='right'>
