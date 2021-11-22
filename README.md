@@ -7,7 +7,7 @@
 </div>
 
 ## '21 라라 필하모닉 오케스트라 크리스마스 연주
-<table border=0 width='100%'>
+<table border=0 width='960px'>
   <tr>
     <td width='35%'>
       <img src="./images/poster/포스터_20211218_1.jpg" width='300px'>
@@ -21,7 +21,7 @@
   </tr>
 </table>
 
-<table border=0 width='100%'>
+<table border=0 width='960px'>
   <tr>
     <td width='65%'>
       <img src="./images/mem_practice_01.jpg"  height='250px'>
