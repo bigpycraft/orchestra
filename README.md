@@ -25,7 +25,7 @@
   <tr>
     <td width='65%'>
       <img src="./images/mem_practice_01.jpg"  height='240px'>
-      <img src="./images/mem_practice_02jpg"  height='240px'>
+      <img src="./images/mem_practice_02.jpg"  height='240px'>
     </td>
     <td width='35%' align='right'>
       <img src="./images/mem_wanted.jpg"  height='240px'>
