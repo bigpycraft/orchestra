@@ -10,14 +10,5 @@
 <img src="./memo/크리스마스 메들리 - A - Violin I - 2p.jpg">
 <hr>
 
-## Christmas  Medley B - Violin1
-
-<img src="./memo/크리스마스 메들리 - B (7.5) - Violin I - 1p.jpg">
-<img src="./memo/크리스마스 메들리 - B (7.5) - Violin I - 2p.jpg">
-
-<hr>
-## 수정본
-<img src="./memo/수정_Xmas_B_1p.jpg">
-<img src="./memo/수정_Xmas_B_2p.jpg">
 
 <hr>
