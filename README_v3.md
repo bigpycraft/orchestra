@@ -35,10 +35,10 @@
 
 
 ## Ensemble Sheet Music, 2021
-- 10월 : [Second Waltz                         ][Msheet-10-1]
-- 10월 : [When You Wish Upon a Star     ][Msheet-10-2]
-- 11월 : [Christmas Medley                    ][Msheet-11-1]
-- 11월 : [Nutcracker Overture                 ][Msheet-11-2]
+- 10월 : [Second Waltz                                   ][Msheet-10-1]
+- 10월 : [When You Wish Upon a Star               ][Msheet-10-2]
+- 11월 : [Christmas Medley                              ][Msheet-11-1]
+- 11월 : [The Nutcracker : Miniature Overture     ][Msheet-11-2]
 
 <hr>
 
